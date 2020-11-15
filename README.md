@@ -1,2 +1,2 @@
-# webdesign4everyone.github.io
+# jameyc8.github.io
 The website for Web Design For Everyone
